@@ -1,0 +1,7 @@
+{
+    "name": "get-sheet-values",
+    "version": "0.0.1",
+    "dependencies": {
+        "googleapis": "^39.0.0"
+    }
+}
